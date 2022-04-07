@@ -1,0 +1,31 @@
+body{
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    
+}
+.conteiner{
+    width: 50%;
+    margin: 20px auto 0px auto;
+}
+.ul li{
+    list-style-type: none;
+}
+.removed{
+    color: gray;
+}
+.removed label{
+    text-decoration: line-through;
+}
+
+main{
+    width: 50%;
+    margin: 20px auto 0px auto;
+    background-color: rgb(238, 145, 145);
+    padding: 20px;
+    border-radius: 20px;
+}
+input{
+    border: 0px;
+    border-radius: 10px;
+}
